@@ -12,4 +12,6 @@ Firefox CSS theme to match Windows 11
 - Create installation script (including custom Mica background)
 
 # Notes
-enable `layout.css.color-mix.enabled` in about:config
+1) enable `layout.css.color-mix.enabled` in about:config
+2) go to about:config, search for and turn on toolkit.legacyUserProfileCustomizations.stylesheets
+3) go to about:profiles, open root folder (under default-default), copy the chrome folder
